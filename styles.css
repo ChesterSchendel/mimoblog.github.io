@@ -45,6 +45,7 @@ body {
 .container {
   max-width: 1000px;
   margin: 0 auto;
+  padding: 0 24px;
 }
 
 a {
@@ -71,6 +72,10 @@ p {
 
 .post-container:nth-child(even) {
  background-color: #f2f2f2;
+}
+
+.post-container {
+  padding: 0 24px;
 }
 
 .post-author img {
